@@ -1,0 +1,30 @@
+MINI ENGINES
+
+newton seconds are total energy in a motor how many newtons a motor can give out in total so like if ns=1 it can give 1 newton of thrust for 1 second, or 10 newtons for 0.1 second
+
+the small engines are either 1.25 newton seconds or 2,5 i want the one thats 2,5-----------
+
+LIST OF 2,5 N/S MOTORS-------------------------------
+
+A3-4T
+A10-0T
+A3-2T
+A3-6T
+ okay so all of these engines have the same total impulse, so what the hell is the difference between them???
+ok so the A is the 'class' i guess, aparately all of these are A class, the 1st numbers are the thrust so A3 is 3N so it burns longer than something with 10 newtons (A10)
+the 2nd set of numbers is a delay for something? a 2nd charge?
+
+what does the delay mean?
+OMG IT HAS A2ND CHARGE TO FALL OUT thats actualy super cool, i can like put a parachute there and with something itll activate automatically, and the 2nd number means the delay between end of thrust, and that 2nd charge so A3-2T is A class, 3N avg thrust, 2 second delay.
+
+ okay so i definitely want the A3 series, because they have the delay, so are their sizes and weight the same?
+	weight		lenght
+A3-4T-   7.9 g		4.6 cm
+A3-2T-   6.5 g		4.4 cm		
+A3-6T-   7.6 g		4.6 cm
+
+OK their length and size ARENT the same, MEANING
+that means that i cant just design around one, put it in some kinda software thatll tell me what delay i want------
+ok i guess i kinda can, the difference isn't that big
+
+CONCLUSION i am gona use an A class motor, A3 series with 2,5ns 
