@@ -8,5 +8,5 @@ this is the rough outline of the rocket shape ill use.
 
 what file is what?
 MINI ENGINES    its my 1st progress on this describing my progress on choosing an engine. 
-
+how to stop it.txt  here i designed the rough outline of the rocket, and thought about the streamer release design.
 
