@@ -1,0 +1,23 @@
+okay so i think the streamer release mechanism is done, the system will work like this: the 2nd charge fires, pushes on the ring inside the rocket (the streamer is glued to the upper part of that ring) the ring pushes onto the nosecone which ill print out of TPU and pops it from the rocket the ring stays in the rocket because it has a part with a bigger diameter than the hole in the rocket. so the nosecone pops out leaving the streamer exposed to the air. there are 2 sketchy things, how do i print the ring inside the rocket? and am i sure the 2nd charge has enough power to push the ring and pop the nosecone out.
+
+1st  question: okay i think i mioght be able to do it 2 ways, print the ring inside the rocket on thin supports ill just push out, 2nd option ill stop the print at the right time, put the ring there, resume the print
+
+2nd question: this is the sketchy one. i honestly have no idea how i will manage the friction and make sure that it has enough push to push the nosecone out.
+
+so i will do some research on the 2nd charge power, and print it IRL, and measure how much force it takes to push the nosecone out, i will then adjust the dimensions till it works.
+
+RESEARCH:
+i didn't find a figure on the ejection charge strength.
+ i did find out that smaller space is more power. my space for it there is 11mm in diameter, and i will propably make it about 1mm high.
+also figured out how to make sure the engine stays in place. a ring that screws on and keeps it in place.
+for my design screws wouldn't really work because its a min. diameter design so i will have to kinda glue the ring on and reglue it before every launch.
+
+
+NOTE:
+
+i figured out a new ring design thing, its like this 12.5 mm diameter for 2mm, 9mm for 5mm, 12.5mm HOLLOW!! for 15mm
+
+okay so the streamer release is complete.
+
+the ejection charge chamber has 1mm vertical space.
+the piston has 5mm of move.
