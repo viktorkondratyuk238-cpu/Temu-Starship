@@ -14,3 +14,4 @@ how to stop it.txt  here i designed the rough outline of the rocket, and thought
 CAD.txt is where i designed the rocket.
 OpenRocket.txt is the one where i mess with openrocket and find a local retailer for the A3 4T motor.
 Untitled.3mf is the CAD file.
+safety.txt is where i research safety stuff.
