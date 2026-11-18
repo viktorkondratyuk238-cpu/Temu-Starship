@@ -1,0 +1,5 @@
+OK so i know the motor has a 2nd charge that like pushes it back? its so a streamer or parachute can deploy, but how? and how does a streamer (a piece of plastic) even break the fall?
+
+ok the video i watched https://www.youtube.com/watch?v=REYTmK1-Cl0 looks like it isn't what i needed, i could do more research on how to deploy the streamer, or try designing some shi in Fusion myself, id rather the 2nd option, i think i have a good idea on how to do it. so now i need to fire up Fusion and design the rough motor sketch, and the rocket around d it, how do i design those kinds of things in Fusion?
+
+ok so i kinda designed the rough outline of the rocket, and i think in my mind i might have an idea on the streamer release mechanism. no guarantees tho.
