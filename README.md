@@ -5,7 +5,8 @@ im using an ESTES A3 4T motor for this.
 why? because of its small size, strong total impulse and the right ejection charge delay.
 
 this is the rocket shape ill use.
-<img width="506" height="704" alt="image" src="https://github.com/user-attachments/assets/bb00be47-739b-431c-b5d6-533e93d3d379" />
+<img width="413" height="702" alt="image" src="https://github.com/user-attachments/assets/4d9471aa-a53b-415c-88f4-01c3d3861998" />
+
 
 
 what file is what?
